@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://liverhour.student.yale-nus.edu.sg" resolutions="1x" timestamp="1523794653112">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://liverhour.student.yale-nus.edu.sg" resolutions="1x" timestamp="1523881404918">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="152996843" ref="index"/>
-    <file name="nomq_index.css" crc="249888923" ref="index"/>
+    <file name="index.css" crc="250199899" ref="index"/>
+    <file name="nomq_index.css" crc="185721823" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="jr_approachable.mp3" crc="205896196" seo="true" mt="1522493063000"/>
@@ -37,40 +37,17 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="r1-00562-005a-crop-u1498.jpg" crc="390406737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u263.png" crc="3759956420" ref="index"/>
-    <file name="u263-r.png" crc="125633362" ref="index"/>
-    <file name="r1-00562-005a.jpg" crc="4251936510" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2632.png" crc="347348936" ref="index"/>
-    <file name="u263-r2.png" crc="49732382" ref="index"/>
-    <file name="r1-00562-005a1152x779.jpg" crc="21472067" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2633.png" crc="277429325" ref="index"/>
-    <file name="u263-r3.png" crc="339272538" ref="index"/>
-    <file name="r1-00562-005a1058x715.jpg" crc="3851191191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2634.png" crc="4081087624" ref="index"/>
-    <file name="u263-r4.png" crc="198136189" ref="index"/>
-    <file name="r1-00562-005a960x649.jpg" crc="3859638253" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2635.png" crc="97431919" ref="index"/>
-    <file name="u263-r5.png" crc="350845864" ref="index"/>
     <file name="untitled.jpg" crc="4266416243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -79,7 +56,18 @@
     <file name="screen shot 2018-04-12 at 10957 pm.jpg" crc="281662156" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u263.png" crc="3759956420" ref="index"/>
+    <file name="u263-r.png" crc="125633362" ref="index"/>
+    <file name="r1-00562-005a.jpg" crc="4251936510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="screen shot 2018-04-12 at 10957 pm721x174.jpg" crc="4149301732" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2632.png" crc="347348936" ref="index"/>
+    <file name="u263-r2.png" crc="49732382" ref="index"/>
+    <file name="r1-00562-005a1152x779.jpg" crc="21472067" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="screen shot 2018-04-12 at 10957 pm657x159.jpg" crc="467957024" seo="true" ref="index">
@@ -87,12 +75,24 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u2633.png" crc="277429325" ref="index"/>
+    <file name="u263-r3.png" crc="339272538" ref="index"/>
+    <file name="r1-00562-005a1058x715.jpg" crc="3851191191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="untitled641x456.jpg" crc="3813693747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2634.png" crc="4081087624" ref="index"/>
+    <file name="u263-r4.png" crc="198136189" ref="index"/>
+    <file name="r1-00562-005a960x649.jpg" crc="3859638253" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="untitled582x413.jpg" crc="77745819" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u2635.png" crc="97431919" ref="index"/>
+    <file name="u263-r5.png" crc="350845864" ref="index"/>
   </folder>
-  <file name="index.html" crc="226432157" seo="true" mt="1523526807385" redirect="true"/>
+  <file name="index.html" crc="507282816" seo="true" mt="1523881383995" redirect="true"/>
 </manifest>
