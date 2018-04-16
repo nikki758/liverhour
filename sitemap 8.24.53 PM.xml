@@ -2,11 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://liverhour.student.yale-nus.edu.sg/index.html</loc>
-    <lastmod>2018-04-16</lastmod>
+    <lastmod>2018-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a-crop-u1498.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a1152x779.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a1058x715.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a960x649.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/untitled.jpg</image:loc>
@@ -15,25 +27,13 @@
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/screen%20shot%202018-04-12%20at%2010957%20pm.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/screen%20shot%202018-04-12%20at%2010957%20pm721x174.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a1152x779.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/screen%20shot%202018-04-12%20at%2010957%20pm657x159.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a1058x715.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/untitled641x456.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://liverhour.student.yale-nus.edu.sg/images/r1-00562-005a960x649.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://liverhour.student.yale-nus.edu.sg/images/untitled582x413.jpg</image:loc>
