@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikki758.github.io" resolutions="1x" timestamp="1523948967017">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikki758.github.io" resolutions="1x" timestamp="1523976638133">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="161808652" ref="index"/>
-    <file name="the-liver-hour.css" crc="4034226603" ref="the-liver-hour"/>
-    <file name="nomq_the-liver-hour.css" crc="446001093" ref="the-liver-hour"/>
+    <file name="the-liver-hour.css" crc="438050282" ref="the-liver-hour"/>
+    <file name="nomq_the-liver-hour.css" crc="4205362307" ref="the-liver-hour"/>
+    <file name="index.css" crc="524616248" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="jr_approachable.mp3" crc="205896196" seo="true" mt="1522493063000"/>
@@ -60,12 +60,12 @@
     <file name="u4713_states-r5.png" crc="152633709" ref="the-liver-hour"/>
     <file name="u4506-7.png" crc="111142675" ref="index"/>
     <file name="u4620-6.png" crc="4262609094" ref="index"/>
-    <file name="u4533-4.png" crc="425308724" ref="index"/>
+    <file name="u5023-4.png" crc="425308724" ref="index"/>
     <file name="u4536-4.png" crc="359051693" ref="index"/>
     <file name="u4539-4.png" crc="53523399" ref="index"/>
     <file name="u4542_states.png" crc="4157717482" ref="index"/>
     <file name="u4542_states-r.png" crc="4089777076" ref="index"/>
   </folder>
-  <file name="the-liver-hour.html" crc="494865019" seo="true" mt="1523945633039" redirect="true"/>
-  <file name="index.html" crc="3798691384" seo="true" mt="1523945479521" redirect="true"/>
+  <file name="the-liver-hour.html" crc="3828618328" seo="true" mt="1523976619918" redirect="true"/>
+  <file name="index.html" crc="418864158" seo="true" mt="1523958830286" redirect="true"/>
 </manifest>
