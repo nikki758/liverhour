@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikki758.github.io" resolutions="1x" timestamp="1524007890195">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikki758.github.io" resolutions="1x" timestamp="1524024449536">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="524616248" ref="index"/>
-    <file name="the-liver-hour.css" crc="3873954674" ref="the-liver-hour"/>
-    <file name="nomq_the-liver-hour.css" crc="4205362307" ref="the-liver-hour"/>
+    <file name="the-liver-hour.css" crc="146337540" ref="the-liver-hour"/>
+    <file name="nomq_the-liver-hour.css" crc="3929539997" ref="the-liver-hour"/>
   </folder>
   <folder name="assets">
     <file name="jr_approachable.mp3" crc="205896196" seo="true" mt="1522493063000"/>
@@ -66,6 +66,6 @@
     <file name="u4542_states.png" crc="4157717482" ref="index"/>
     <file name="u4542_states-r.png" crc="4089777076" ref="index"/>
   </folder>
-  <file name="the-liver-hour.html" crc="3767164853" seo="true" mt="1523976619918" redirect="true"/>
+  <file name="the-liver-hour.html" crc="3909067770" seo="true" mt="1524024434566" redirect="true"/>
   <file name="index.html" crc="418864158" seo="true" mt="1523958830286" redirect="true"/>
 </manifest>
